@@ -4,8 +4,8 @@
 			test title
 		</title>
 		<style>
-		.container{float:left; border:1px solid black;}
-		.container .content{float:left; border:1px solid red;}
+		.container{float:left; border:1px solid blue;}
+		.container .content{float:left; border:1px solid green;}
 		</style>
 	</head>
 
